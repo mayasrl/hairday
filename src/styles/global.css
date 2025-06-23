@@ -48,6 +48,18 @@ body {
   width: 8.7rem;
 }
 
+.credit {
+  display: block;
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 0.875rem;
+  color: #666;
+}
+.credit img {
+  width: 1rem;
+  vertical-align: middle;
+}
+
 @media (max-width: 1100px) {
   :root {
     font-size: 14px;
